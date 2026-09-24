@@ -1,5 +1,35 @@
 #  Soulie - A Alma Gamificada da SoulUp
 
+> Projeto acadêmico em equipe • Sustentabilidade e gamificação • HTML, CSS e JavaScript
+
+[Código nesta conta](https://github.com/LeticiaFelix18/soulie) · [Perfil de Letícia](https://github.com/LeticiaFelix18)
+
+## 🕷️ Minha contribuição
+
+Minha participação no **Soulie** foi concentrada em responsividade, organização dos componentes e aprimoramento da identidade visual. Entre as atividades registradas no desenvolvimento estão:
+
+- criação e ajuste de media queries para diferentes tamanhos de tela;
+- alinhamento das caixas de texto sobre missões e desafios;
+- melhoria da apresentação da trajetória da ideia Soulie;
+- correção das dimensões e do enquadramento do avatar;
+- ajustes na apresentação das soluções;
+- atualização da cor e da frase principal da página inicial.
+
+Essas alterações ajudaram a tornar a experiência mais clara, consistente e adaptável a dispositivos diferentes.
+
+## 🚀 Como visualizar
+
+Clone este repositório e abra a pasta no VS Code:
+
+```bash
+git clone https://github.com/LeticiaFelix18/soulie.git
+cd soulie
+```
+
+Abra o arquivo `index.html` com a extensão Live Server. Este repositório apresenta a interface web da proposta Soulie.
+
+---
+
 ##  Descrição do Projeto
 A **Soulie** é a alma gamificada e a assistente virtual inteligente desenvolvida para a plataforma **SoulUp**. Inspirada na essência curiosa do personagem "22" do filme *Soul*, a Soulie nasceu com a missão de solucionar um dos maiores desafios do mercado de sustentabilidade: a retenção e o engajamento de usuários.
 
@@ -105,3 +135,4 @@ A arquitetura do repositório segue rigorosamente a organização de arquivos do
 │   └── sobre.html            # Detalhemento e trajetória da solução
 ├── index.html                # Página principal (Home) do ecossistema
 └── readme.md                 # Guia técnico e informativo do projeto
+```
